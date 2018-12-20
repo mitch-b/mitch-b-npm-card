@@ -1,9 +1,10 @@
-It's me, Tierney!
+It's me, Mitchell Barry!
 
 # Usage
 Via npx:
 ```
-npx bitandbang
+npx mitch-b
 ```
 
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
+# Credit
+Kudos to [Tierney Cyren (bnb)](https://github.com/bnb) and his [bnb/bitandbang](https://github.com/bnb/bitandbang) project.
